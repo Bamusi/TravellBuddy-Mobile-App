@@ -23,10 +23,10 @@ TravelBuddy is a tourism mobile app developed using React Native, with a MongoDB
 
 <p align="center">
 Design: <br/>
-<img src="https://i.imgur.com/QT3q0jI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QT3q0jI.png" height="50%" width="50%" alt="Design"/>
 <br />
 <br />
-<img src="https://imgur.com/a/Cby6JBi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/Cby6JBi.png" height="50%" width="50%" alt="Design"/>
 <br />
 <br />
 
