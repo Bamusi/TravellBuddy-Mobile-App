@@ -24,7 +24,7 @@ Design: <br/>
 <img src="https://i.imgur.com/QT3q0jI.png" height="50%" width="50%" alt="Design"/>
 <br />
 <br />
-<img src="https://imgur.com/a/ISIe41e.png" height="50%" width="50%" alt="Design"/>
+<img src="https://i.imgur.com/ISIe41e.png" height="50%" width="50%" alt="Design"/>
 <br />
 <br />
 
